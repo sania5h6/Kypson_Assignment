@@ -34,4 +34,4 @@ Known weak spots: I guess the unit when it is missing (a bare number means pcs f
 - Downstream signal: what share of parsed RFQs get supplier quotes without manual re-entry.
 
 ## Tools used
-Built with Claude Code (Anthropic's Claude, an AI coding assistant).I reviewed and traced the code, added my own test messages, ran the scoring script, tested additional messages, and manually checked the expected outputs.*
+Built with Claude Code (Anthropic's Claude, an AI coding assistant).I reviewed and traced the code, added my own test messages, ran the scoring script, tested additional messages, and manually checked the expected outputs.
